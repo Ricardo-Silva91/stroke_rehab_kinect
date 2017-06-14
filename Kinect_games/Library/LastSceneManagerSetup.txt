@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/mine/games/dodge/dodge.unity
+  isLoaded: 1
+  isActive: 1
